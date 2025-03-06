@@ -6,6 +6,9 @@ permalink: /about/
 
 ## Hi, I'm Christopher! 👋
 
+![My Profile Photo](/assets/img/Portfolio_Photo.jpg)
+
+
 Niche started my career, but breadth keeps me employed.
 
 I'm a web analytics expert who likes to spend most of his day building ETL pipelines, automating my job, and be able to dig through the dirty data for some game chagnging insights.
@@ -21,7 +24,7 @@ It's brief but has felt like a long over six years of experienc in Google Analyt
 
 I'm confident in what I'm good at which is looking through various data sources and help business make data-driven decisions at scale. 
 
-## Here's how I provdie value  🚀
+## Here's how I provide value  🚀
 
 - **ETL & Data Engineering** – Building **automated pipelines** with **Airflow, BigQuery, and DuckDB**.
 - **Web & Product Analytics** – Setting up **Google Analytics 4 (GA4)** and tracking user behavior.
