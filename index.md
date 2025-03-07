@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About Me"
-permalink: /about/
+title: "Home"
+permalink: /
 ---
 
 ## Hi, I'm Christopher! 👋

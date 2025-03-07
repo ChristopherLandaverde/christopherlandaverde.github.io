@@ -20,7 +20,7 @@ author: Christopher Landaverde
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  Blog: "blog"
   Resume: "resume"
   Projects: "projects" 
 
