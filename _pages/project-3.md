@@ -3,11 +3,11 @@ layout: page
 title: "Sales Customer Analysis "
 permalink: /projects/sql-customer-analysis/
 category: sql
-description: "SQL queries for analyzing data."
-image: "/assets/images/sql-analysis.png"
+description: "My analysis of ecommerce data."
+image: "/assets/img/analysis.png"
 ---
 
-# Sales and Customer Analysis
+
 ### Overview
 This project was designed to demonstrate my proficiency with PostgreSQL and to gain expertise with Docker. I used PostgreSQL to uncover insights and Apache Superset to create dashboards that provide actionable insights into sales trends, customer behavior, and product performance.
 
@@ -48,6 +48,7 @@ The dataset consisted of transactions from an e-commerce store based in the UK, 
 - **Stimulate Demand in Lower Periods**:
   - Use promotions or discounts during **May to July** to drive sales during traditionally lower-demand months.
 
+<br />
 
 ### SQL Query: RFM Analysis
 
@@ -108,6 +109,7 @@ ORDER BY monetary_value DESC;
 <br />
 
 ### SQL Query: Seasonal Product Trends
+<br />
 ```sql
 
 SELECT

@@ -23,7 +23,7 @@ permalink: /projects/
         {% if project.image %}
           <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width: 100%;">
         {% endif %}
-        <a href="{{ project.url }}">Read more...</a>
+   
       </article>
       <hr>
     {% endif %}
@@ -39,7 +39,7 @@ permalink: /projects/
         {% if project.image %}
           <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width: 100%;">
         {% endif %}
-        <a href="{{ project.url }}">Read more...</a>
+    
       </article>
       <hr>
     {% endif %}
@@ -55,7 +55,7 @@ permalink: /projects/
         {% if project.image %}
           <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width: 100%;">
         {% endif %}
-        <a href="{{ project.url }}">Read more...</a>
+    
       </article>
       <hr>
     {% endif %}
