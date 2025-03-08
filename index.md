@@ -9,7 +9,7 @@ css:
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<h2>Hi, I'm Christopher</h2>
+<h1>👋 Hi, I'm Christopher</h1>
 
 
 ![My Profile Photo](/assets/img/Portfolio_Photo.jpg)
