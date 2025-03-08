@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Home"
+
 permalink: /
+css:
+  - "/assets/css/custom.css"
 ---
 
 ## Hi, I'm Christopher! 👋
@@ -9,20 +11,24 @@ permalink: /
 ![My Profile Photo](/assets/img/Portfolio_Photo.jpg)
 
 
-Niche started my career, but breadth keeps me employed.
+In case you're curious, this photo is me in Patagonia—about 100 miles from the end of the world.  
 
-I'm a web analytics expert who likes to spend most of his day building ETL pipelines, automating my job, and be able to dig through the dirty data for some game chagnging insights.
+### If I’m not exploring the world as an adventurous traveler, I’m engineering marketing science.  
 
+I went to school for advertising but fell in love with data visualization, which led me to a career in analytics.  
 
-I'm the marketing web analytics expert that can create an ELT pipeline from your ABM software into our bigquery database, or create a gorgeous dashboard in Power BI or Tableau that 
+I specialize in A/B testing, landing pages, digital campaign analysis, and SEO performance tracking. I create custom web tags using JavaScript and collaborate with teams across sales and finance. My experience is multifaceted—I’ve worked across marketing analytics, ABM campaign reporting, and business intelligence.  
 
-I've had to adapt to different indurstries 
+**Niche started my career, but breadth keeps me employed.**  
 
-It's brief but has felt like a long over six years of experienc in Google Analytics, BigQuery, PowerBI, and Python. 
+I like to stay competitive, and my previous roles have pushed me deeper into business intelligence. I’ve developed forecasts, built dashboards, and captured user journeys from product purchases to subscription connections. I work with Tableau, Power BI, SAP, Salesforce, Kochava for mobile app attribution, and ELT pipelines using BigQuery.  
 
+### Currently open to new opportunities  
+I'm actively working on projects through Upwork and always looking to connect with like-minded professionals. Let’s collaborate!  
 
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01a0bab5a290289ab6)  
+🔗 [LinkedIn](https://www.linkedin.com/in/christopherlandaverde/)  
 
-I'm confident in what I'm good at which is looking through various data sources and help business make data-driven decisions at scale. 
 
 ## Here's how I provide value  🚀
 
