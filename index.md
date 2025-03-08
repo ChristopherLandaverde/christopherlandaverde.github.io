@@ -6,7 +6,7 @@ css:
   - "/assets/css/custom.css"
 ---
 
-## Hi, I'm Christopher! 👋
+
 
 ![My Profile Photo](/assets/img/Portfolio_Photo.jpg)
 
