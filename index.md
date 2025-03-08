@@ -2,11 +2,15 @@
 layout: page
 
 permalink: /
+title: "Hi, I'm Christopher"
 css:
   - "/assets/css/custom.css"
 ---
 
-### Hi, I'm Christopher! 👋
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<h2>Hi, I'm Christopher</h2>
+
 
 ![My Profile Photo](/assets/img/Portfolio_Photo.jpg)
 
