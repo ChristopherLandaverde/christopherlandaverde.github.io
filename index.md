@@ -31,8 +31,10 @@ I like to stay competitive, and my previous roles have pushed me deeper into bus
 I'm actively working on projects through Upwork and always looking to connect with like-minded professionals. Let’s collaborate!  
 
 🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01a0bab5a290289ab6)  
-🔗 [LinkedIn](https://www.linkedin.com/in/christopherlandaverde/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/christopherlandaverde/) 
+🔗 [Github](https://github.com/ChristopherLandaverde) 
 
+</br>
 
 ## 💥 Here's how I deliver value 🚀
 
