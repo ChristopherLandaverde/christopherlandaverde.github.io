@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Data analyst
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: GTM Strategy
+subtitle: Develop a GTM straegy for my app
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Christopher Landaverde
+
 ---
 
 
-# 🚀 Go-To-Market (GTM) Strategy for My Travel App
+## 🚀 Go-To-Market (GTM) Strategy for My Travel App
 
 I used to travel frequently, often spending months at a time abroad. My typical itinerary included extended trips across countries, especially in **Southeast Asia**—covering Thailand, South Korea, Cambodia, and the Philippines over about four months. Even though I tried language apps like **Duolingo, Preply, and Rosetta Stone**, I consistently felt lost as soon as I got past customs, unable to quickly adapt to local contexts.
 
@@ -18,9 +19,12 @@ After spending six months collaborating with skilled freelancers on Upwork, I've
 
 ---
 
-# 🎯 My Bootstrapped GTM (Go-To-Market) Strategy
 
-### 1. 🎯 **Audience Segmentation (Who?)**
+<br/>
+
+### 🎯 My Bootstrapped GTM (Go-To-Market) Strategy
+
+#### 1. 🎯 **Audience Segmentation (Who?)**
 Clearly defined niche:
 - **Age:** 25–35 years old
 - **Lifestyle:** Digital nomads, remote workers, and frequent travelers
@@ -43,6 +47,7 @@ Clearly defined niche:
   - Hacker Paradise Forum
 
 ---
+<br/>
 
 ### 2. ✨ **Authentic & Relatable Messaging (What?)**
 - **Core Message:** 
@@ -53,6 +58,7 @@ Clearly defined niche:
   - Easy community integration upon arrival
 
 ---
+<br/>
 
 ### 3. 🌱 **Cost-Effective Awareness & Acquisition (How?)**
 
@@ -79,6 +85,7 @@ Clearly defined niche:
   - Affordable campaigns targeting specific geographic and interest-based segments.
 
 ---
+<br/>
 
 ### 4. 🤝 **Community Building & Engagement**
 - Encourage active community participation:
@@ -91,6 +98,7 @@ Clearly defined niche:
   - Practical advice (local apps, SIM card hacks, best cafes).
 
 ---
+<br/>
 
 ### 5. 💰 **Practical Revenue Generation**
 - **Freemium Model:**
@@ -103,6 +111,7 @@ Clearly defined niche:
   - Travel gear, backpacks, SIM cards, affiliate marketing.
 
 ---
+<br/>
 
 ### 6. 📈 **Clearly Defined, Actionable KPIs**
 
@@ -114,6 +123,7 @@ Clearly defined niche:
 | **Revenue**    | Monthly Recurring Revenue (MRR), subscription upgrades, affiliate revenue|
 
 ---
+<br/>
 
 ### 🎬 **Example TikTok & Short-form Video Plan (Detailed)**
 
@@ -125,6 +135,7 @@ Clearly defined niche:
 | Collaboration              | "Top Nomad Tips by [Influencer]”                       | Acquisition, Trust    |
 
 ---
+<br/>
 
 ### 🧠 **Why Creator-Led Brands?**
 - **Authenticity & Relatability:**  
@@ -140,4 +151,3 @@ Clearly defined niche:
 
 By leveraging this **creator-backed** and community-oriented GTM strategy, the app can effectively penetrate the market, quickly achieve meaningful growth, and scale practically—even when starting from scratch and bootstrapping resources.
 
-This format will display clearly and beautifully in Obsidian. Let me know if you'd like further adjustments!
