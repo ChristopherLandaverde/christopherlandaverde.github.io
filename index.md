@@ -34,13 +34,22 @@ I'm actively working on projects through Upwork and always looking to connect wi
 🔗 [LinkedIn](https://www.linkedin.com/in/christopherlandaverde/)  
 
 
-## Here's how I provide value  🚀
+## 💥 Here's how I deliver value 🚀
 
-- **ETL & Data Engineering** – Building **automated pipelines** with **Airflow, BigQuery, and DuckDB**.
-- **Web & Product Analytics** – Setting up **Google Analytics 4 (GA4)** and tracking user behavior.
-- **A/B Testing & Experimentation** – Analyzing tests for **subscription-based businesses**.
-- **API Development** – Creating **FastAPI**-powered backend services.
-- **Dashboarding & Reporting** – Building **interactive dashboards** in **Power BI & Looker**.
+- **Marketing & Web Analytics**  
+  I help teams understand how users really behave. With tools like **GA4**, **Google Tag Manager**, and **Tealium**, I set up smart tracking strategies that fuel smarter decisions and better digital experiences.
+
+- **Campaign Optimization & A/B Testing**  
+  I run **A/B and multivariate tests** that actually move the needle—whether it’s landing pages, emails, or paid media. My focus is on **conversion rate optimization (CRO)**, engagement, and retention.
+
+- **Dashboarding & Reporting That Drives Action**  
+  I turn marketing data into dashboards that people actually use—built in **Power BI**, **Looker Studio**, and **Google Data Studio**—to track KPIs, find trends, and guide strategy.
+
+- **Marketing Measurement & Modeling**  
+  I’m all about connecting the dots. From **attribution modeling** to **media mix modeling** and **marketing mix modeling (MMM)**, I help teams see what’s working and where to double down—pulling insights from platforms like **Kochava**, **Salesforce**, **SFMC**, **Pardot**, and more.
+
+- **Full-Funnel Performance Analytics**  
+  I analyze the full journey—from lead to conversion to retention—using **multi-touch attribution**, cohort analysis, and lifecycle mapping. The goal? Better targeting, better results, and better ROI.
 
 
 
