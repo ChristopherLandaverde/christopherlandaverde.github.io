@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microwaves terrible design
+title: The Irrational Microwave
 subtitle: The Irrational Microwave
 cover-img: /assets/img/microwaves.png
 thumbnail-img: /assets/img/thumb.png
@@ -10,7 +10,7 @@ author: Christopher Landaverde
 
 ---
 
-## 🌀 The Irrational Microwave: What This Kitchen Appliance Teaches Me About A/B testing Product Pages.
+### 🌀 What This Kitchen Appliance Teaches Me About A/B testing Product Pages.
 
 Microwaves don’t make sense to me — and yet, somehow, I got convinced to buy a **$1,200 microwave**. 🤯
 
